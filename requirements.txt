@@ -5,3 +5,4 @@ python-dotenv
 starlette
 jinja2
 itsdangerous
+python-multipart
