@@ -1,0 +1,26 @@
+[
+  {
+    "key": "test-key-123",
+    "owner": "admin2",
+    "active": true,
+    "note": "Default test key"
+  },
+  {
+    "key": "test-key-2",
+    "owner": "admin",
+    "active": true,
+    "note": "testing"
+  },
+  {
+    "key": "test-key-23",
+    "owner": "admin",
+    "active": true,
+    "note": "test"
+  },
+  {
+    "key": "test4",
+    "owner": "dx",
+    "active": false,
+    "note": "fdx"
+  }
+]
